@@ -1,0 +1,30 @@
+[
+    {
+        "marca":"Fiat",
+        "año":2020,
+        "modelo":"500",
+        "precio":10000,
+        "iva":1.21
+    },
+    {
+        "marca":"Reanult",
+        "año":2022,
+        "modelo":"Megane",
+        "precio":250000,
+        "iva":1.21
+    },
+    {
+        "marca":"Volkswagen",
+        "año":2020,
+        "modelo":"Vento",
+        "precio":35300,
+        "iva":2
+    },
+    {
+        "marca":"Mercedes Benz", 
+        "año":2021,
+        "modelo":"Clase A",
+        "precio":76000,
+        "iva":2
+    }
+]
